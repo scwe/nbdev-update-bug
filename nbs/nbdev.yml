@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-example"
+  site-url: "https://s.github.io/nbdev-example"
+  description: "Testing nbdev upgrade bug"
+  repo-branch: main
+  repo-url: "https://github.com/s/nbdev-example"
